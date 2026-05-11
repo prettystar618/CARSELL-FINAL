@@ -216,7 +216,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     </div>
 
     <div class="footer">
-        © 2026 Cabbage Car Sale. All rights reserved.
+        © 2026 Cabbage Car Sale.
     </div>
 </body>
 </html>
